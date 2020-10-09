@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/ramune/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/ramune/catkin_ws/src/TUKUBA2021/src/2D_Navigation_Stack/include/**",
+                "/home/ramune/catkin_ws/src/LexxAuto/agv_move_base/include/**",
+                "/home/ramune/catkin_ws/src/navigation/amcl/include/**",
+                "/home/ramune/catkin_ws/src/navigation/base_local_planner/include/**",
+                "/home/ramune/catkin_ws/src/navigation/carrot_planner/include/**",
+                "/home/ramune/catkin_ws/src/navigation/clear_costmap_recovery/include/**",
+                "/home/ramune/catkin_ws/src/navigation/costmap_2d/include/**",
+                "/home/ramune/catkin_ws/src/navigation/dwa_local_planner/include/**",
+                "/home/ramune/catkin_ws/src/navigation/global_planner/include/**",
+                "/home/ramune/catkin_ws/src/navigation/map_server/include/**",
+                "/home/ramune/catkin_ws/src/mmm_robot/include/**",
+                "/home/ramune/catkin_ws/src/navigation/move_base/include/**",
+                "/home/ramune/catkin_ws/src/navigation/move_slow_and_clear/include/**",
+                "/home/ramune/catkin_ws/src/LexxAuto/multiple_goal_specification/include/**",
+                "/home/ramune/catkin_ws/src/Udemy/ROS_For_Beginners/my_robot_tutorials/include/**",
+                "/home/ramune/catkin_ws/src/navigation/nav_core/include/**",
+                "/home/ramune/catkin_ws/src/navigation/navfn/include/**",
+                "/home/ramune/catkin_ws/src/path_planning/local_planner/once_stop/include/**",
+                "/home/ramune/catkin_ws/src/Udemy/ROS_For_Beginners/ros_msgs_srvs/include/**",
+                "/home/ramune/catkin_ws/src/Udemy/ROS_For_Beginners/ros_service/include/**",
+                "/home/ramune/catkin_ws/src/Udemy/ROS_For_Beginners/ros_topic/include/**",
+                "/home/ramune/catkin_ws/src/navigation/rotate_recovery/include/**",
+                "/home/ramune/catkin_ws/src/path_planning/simple_local_planner/include/**",
+                "/home/ramune/catkin_ws/src/path_planning/local_planner/supervisor_local_path/include/**",
+                "/home/ramune/catkin_ws/src/toragi_ros_tutorial/toragi_pkg1/include/**",
+                "/home/ramune/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/ramune/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/ramune/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+                "/home/ramune/catkin_ws/src/vector_map/include/**",
+                "/home/ramune/catkin_ws/src/navigation/voxel_grid/include/**",
+                "/home/ramune/catkin_ws/src/TUKUBA2021/src/waypoint_specification/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/opt/gcc-arm-none-eabi-9-2020-q2-update/bin/arm-none-eabi-gcc",
+            "cStandard": "gnu18",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
