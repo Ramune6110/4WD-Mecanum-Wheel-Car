@@ -5,7 +5,7 @@
 ![S__12615690](https://user-images.githubusercontent.com/52307432/95597225-518e2700-0a89-11eb-81f1-0473708fec3a.jpg)
 
 ## 4WD-Mecanum-Wheel-Car動作確認
-きちんと動いていることが確認出来ます
+きちんと動いていることが確認出来ます  
 ![動作確認-min](https://user-images.githubusercontent.com/52307432/95655488-acd02000-0b42-11eb-8ba2-dfdf6b34564a.gif)
 
 ## Calculate 4WD rotation velocity
