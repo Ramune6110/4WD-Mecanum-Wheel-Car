@@ -7,4 +7,4 @@
 
 # read_moter_velocity
 以下のコードで2輪の回転速度を算出しています
-[read_two_encoder.cpp](https://github.com/Ramune6110/4WD-Mecanum-Wheel-Car/blob/main/NUCLEO/read_two_encoder.cpp)  
+[read_moter_velocity.cpp](https://github.com/Ramune6110/4WD-Mecanum-Wheel-Car/blob/main/NUCLEO/read_moter_velocity.cpp)  
