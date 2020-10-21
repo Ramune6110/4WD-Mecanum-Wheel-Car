@@ -1,4 +1,7 @@
-# read_left_encoder
-![S__12853276](https://user-images.githubusercontent.com/52307432/96699676-82475800-13c9-11eb-9e84-0d767fb6c881.jpg)
-![S__12853278](https://user-images.githubusercontent.com/52307432/96699701-8bd0c000-13c9-11eb-90d2-be80535b888f.jpg)
-![encoder](https://user-images.githubusercontent.com/52307432/96699734-94c19180-13c9-11eb-9d3f-9da2db917894.png)
+# read_two_encoder
+run read_two_encoder.cpp
+![S__12853279](https://user-images.githubusercontent.com/52307432/96702432-b3755780-13cc-11eb-81ef-d5017c37ba44.jpg)
+![S__12853281](https://user-images.githubusercontent.com/52307432/96702443-b4a68480-13cc-11eb-930b-4f479fbfcd8f.jpg)
+![encoder](https://user-images.githubusercontent.com/52307432/96702467-b8d2a200-13cc-11eb-8f97-82bc53bf84b9.png)
+
+
