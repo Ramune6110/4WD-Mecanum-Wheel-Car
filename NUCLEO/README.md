@@ -6,5 +6,5 @@
 <img src="https://user-images.githubusercontent.com/52307432/96702467-b8d2a200-13cc-11eb-8f97-82bc53bf84b9.png" alt="Your image title" width="500"/>  
 
 # read_moter_velocity
-以下のコードで2輪の回転速度を算出しています
+以下のコードで2輪の回転速度を算出しています  
 [read_moter_velocity.cpp](https://github.com/Ramune6110/4WD-Mecanum-Wheel-Car/blob/main/NUCLEO/read_moter_velocity.cpp)  
