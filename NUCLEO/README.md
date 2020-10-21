@@ -1,5 +1,5 @@
 # read_two_encoder
-以下のコードで2輪の回転速度を算出しています  
+以下のコードで2輪のエンコーダ値を算出しています  
 [read_two_encoder.cpp](https://github.com/Ramune6110/4WD-Mecanum-Wheel-Car/blob/main/NUCLEO/read_two_encoder.cpp)
 ![S__12853279](https://user-images.githubusercontent.com/52307432/96702432-b3755780-13cc-11eb-81ef-d5017c37ba44.jpg)
 ![S__12853281](https://user-images.githubusercontent.com/52307432/96702443-b4a68480-13cc-11eb-930b-4f479fbfcd8f.jpg)
